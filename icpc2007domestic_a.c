@@ -9,7 +9,7 @@ int main(int argc, char* argv[]){
   int n[20] = {};
   int sum[20] = {};
   int* s;
-  s = &sum[0];
+  s = sum;
 
   j = 0;
   while(1){
