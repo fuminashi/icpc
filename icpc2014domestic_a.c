@@ -1,3 +1,6 @@
+// ICPC 2014 国内予選A
+// http://icpc.iisf.or.jp/past-icpc/domestic2014/#section_A
+
 #include <stdio.h>
 
 int main(void){
